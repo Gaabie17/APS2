@@ -9,6 +9,13 @@ Trabalho da Atividade Avaliativa N2 de **Análise e Projeto de Sistemas II**, do
 O relatório do projeto, com requisitos, casos de uso, diagrama de classes e decisões de projeto, está disponível em:
 [Relatório — Sistema de Controle de Condomínios](https://docs.google.com/document/d/1uJcsouJJ0dvjP-dNZDZRUzqP6m9_CmKuKwd3IaZIFtU/edit?usp=sharing)
 
+## Documentos
+
+| Arquivo | Conteúdo |
+| --- | --- |
+| [docs/Atividade_N2_APSII_2026-2.pdf](docs/Atividade_N2_APSII_2026-2.pdf) | Enunciado da atividade |
+| [docs/Apresentacao_APS2.pptx](docs/Apresentacao_APS2.pptx) | Slides da apresentação |
+
 ## Funcionalidades
 
 | Opção do menu | Caso de uso |
