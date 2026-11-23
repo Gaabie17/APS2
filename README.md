@@ -14,7 +14,7 @@ O relatório do projeto, com requisitos, casos de uso, diagrama de classes e dec
 | Arquivo | Conteúdo |
 | --- | --- |
 | [docs/Atividade_N2_APSII_2026-2.pdf](docs/Atividade_N2_APSII_2026-2.pdf) | Enunciado da atividade |
-| [docs/Apresentacao_APS2.pptx](docs/Apresentacao_APS2.pptx) | Slides da apresentação |
+| [Apresentação (Google Slides)](https://docs.google.com/presentation/d/1JxREjf9PWIohBCGq58pRH_BUmIBV8MWj7txuf1yj2MM/edit?usp=sharing) | Slides da apresentação |
 | [Relatório (Google Docs)](https://docs.google.com/document/d/1uJcsouJJ0dvjP-dNZDZRUzqP6m9_CmKuKwd3IaZIFtU/edit?usp=sharing) | Requisitos, casos de uso, diagrama de classes e decisões de projeto |
 
 ## Funcionalidades
